@@ -1,4 +1,4 @@
-# Personal Portfolio WebSite
+<!-- # Personal Portfolio WebSite
 
 ---
 
@@ -44,4 +44,4 @@ Tiles used to display Projects: [Mix It Up](https://www.kunkalabs.com/mixitup/)
 
 For Delay Animations on the HomePage: [GSAP](https://greensock.com/gsap/)
 
-Code for Qualifications Tab: [Code Pen](https://codepen.io/ambresh20/pen/qBvONjw)
+Code for Qualifications Tab: [Code Pen](https://codepen.io/ambresh20/pen/qBvONjw) -->
